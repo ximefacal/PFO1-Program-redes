@@ -79,7 +79,7 @@ python server.py
 **2. En otra terminal, iniciar el cliente:**
 
 ```bash
-python client.py
+python cliente.py
 ```
 
 **3. Enviar los mensajes que se quieran probar.**
